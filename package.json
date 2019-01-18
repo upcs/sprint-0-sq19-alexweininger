@@ -1,0 +1,24 @@
+{
+  "name": "sprint-0-sq19-alexweininger",
+  "version": "1.0.0",
+  "description": "sprint-0-sq19-alexweininger created by GitHub Classroom",
+  "main": "./js/server.js",
+  "start": "./js/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./js/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-alexweininger.git"
+  },
+  "author": "weininge21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-alexweininger/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-alexweininger#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
