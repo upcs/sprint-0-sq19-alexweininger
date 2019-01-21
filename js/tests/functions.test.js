@@ -1,3 +1,6 @@
+/*
+ * Alex Weininger
+*/
 const sum = require('../functions');
 
 // test 1

@@ -1,3 +1,8 @@
-console.log(sum(1, 2));
+/*
+ * Alex Weininger
+*/
 
-document.writeln(sum(1, 2));
+document.writeln('1 + 2 = ' + sum(1, 2));
+document.writeln('1 + 3 = ' + sum(1, 3));
+document.writeln('1 + 9 = ' + sum(1, 9));
+document.writeln('1 + 100 = ' + sum(1, 100));
